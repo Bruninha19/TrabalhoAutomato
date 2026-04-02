@@ -1,6 +1,7 @@
 Instalando o MinGW + C no VScode
 
 🧱 PARTE 1 — Instalando o MinGW
+
 🔹 1. Baixar
 Acesse o site do MinGW
 Clique em Download Installer (mingw-get-setup.exe)
@@ -23,6 +24,7 @@ Depois:
 Menu Installation → Apply Changes → Apply
 
 🔧 PARTE 2 — Configurar o PATH
+
 🔹 1. Copiar caminho
 C:\MinGW\bin
 
@@ -47,6 +49,7 @@ gcc --version
 👉 Se aparecer versão → ✔ tudo certo
 
 💻 PARTE 3 — Configurar no Visual Studio Code
+
 🔹 1. Instalar VS Code
 Baixe e instale normalmente
 
@@ -67,6 +70,7 @@ automato.c
 Cole o código que te passei
 
 ▶️ PARTE 4 — Rodar o código
+
 🔹 Método simples (melhor pra você agora)
 No VS Code:
 Vá em Terminal → New Terminal
