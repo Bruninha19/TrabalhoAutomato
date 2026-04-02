@@ -67,7 +67,7 @@ Abra no VS Code:
  👉 File → Open Folder
 Crie um arquivo:
 automato.c
-Cole o código que te passei
+
 
 ▶️ PARTE 4 — Rodar o código
 
