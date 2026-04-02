@@ -93,3 +93,4 @@ reiniciar terminal
 
 Sugiro que teste as palavras: a, b, ab, aab, aabb, abb
 
+![Autômato](automato.png)
